@@ -64,8 +64,7 @@ Server akan berjalan di: **http://localhost:8080**
 ```json
 {
   "name": "John Doe",
-  "age": 30,
-  "department": "IT"
+  "email": "john@scala.com",
 }
 ```
 
